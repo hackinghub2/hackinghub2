@@ -27,9 +27,20 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 - 🏏 **Hobbies:** Cricket enthusiast and former core member of my college's cricket club!
 - 💼 **Career Interests:** AI, Web Development, and Machine Learning
 
+
+
 ### 📫 How to reach me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/hackinghub2)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jtalekar2003@gmail.com)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackinghub2&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="hackinghub2" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackinghub2&show_icons=true&locale=en&theme=blueberry" alt="hackinghub2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinghub2&theme=blueberry" alt="hackinghub2" /></p>
+
 
 ---
 
