@@ -19,6 +19,11 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Debug Variables
+        run: |
+          echo "GIF output path: ${{ steps.snake-gif.outputs.gif_out_path }}"
+          echo "SVG output path: ${{ steps.snake-gif.outputs.svg_out_path }}"
+
       - name: Check git status
         run: git status
 
