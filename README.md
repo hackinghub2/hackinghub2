@@ -34,15 +34,14 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jtalekar2003@gmail.com)
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackinghub2&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="hackinghub2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackinghub2&show_icons=true&locale=en&layout=compact&theme=merko" alt="hackinghub2" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackinghub2&show_icons=true&locale=en&theme=merko" alt="hackinghub2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinghub2&theme=merko" alt="hackinghub2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackinghub2&show_icons=true&locale=en&theme=blueberry" alt="hackinghub2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinghub2&theme=blueberry" alt="hackinghub2" /></p>
-
+Feel free to explore my repositories and connect with me! 😄
 
 ---
 
