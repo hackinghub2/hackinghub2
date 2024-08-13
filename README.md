@@ -2,6 +2,10 @@
 
 I'm a passionate developer with a focus on **AI, Machine Learning, Web Development**, and more. I love tackling challenging projects and constantly learning new technologies.
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 ### 🚀 Projects
 - **🌟 AI Voice Assistant:** An AI-powered voice assistant built using Python and PyQt5.
 - **🚗 Car Price Predictor:** A web application that predicts car prices based on various features using machine learning.
