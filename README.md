@@ -1,6 +1,7 @@
 ![Hacking GIF](https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi+there,+I'm+Jatin+Talekar+👋;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hackinghub2&color=blue)
 
 I'm a passionate developer with a focus on **AI, Machine Learning, Web Development**, and more. I love tackling challenging projects and constantly learning new technologies.
 
