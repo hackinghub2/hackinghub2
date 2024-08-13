@@ -24,12 +24,6 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="background-color: yellow; padding: 5px; filter: hue-rotate(120deg) brightness(1.5);"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: yellow; padding: 5px; filter: hue-rotate(120deg) brightness(1.5);"/>
-</a>
 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
