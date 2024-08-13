@@ -33,7 +33,6 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 
 
 ### 📫 How to reach me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/hackinghub2)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jtalekar2003@gmail.com)
 
 <p>
