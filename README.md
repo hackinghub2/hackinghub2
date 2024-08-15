@@ -84,6 +84,6 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinghub2&theme=merko" alt="hackinghub2" /></p>
 
 ![snake gif](https://github.com/hackinghhub2/hackinghub2/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/hackinghhub2/hackinghub2/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 Feel free to explore my repositories and connect with me! 😄
