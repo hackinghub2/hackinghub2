@@ -82,6 +82,6 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackinghub2&show_icons=true&locale=en&theme=merko" alt="hackinghub2" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinghub2&theme=merko" alt="hackinghub2" /></p>
-https://github.com/hackinghub2/hackinghub2/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 Feel free to explore my repositories and connect with me! 😄
