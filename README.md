@@ -66,7 +66,7 @@ I'm a passionate developer with a focus on **AI, Machine Learning, Web Developme
 </p>
 
 ### 🌱 Currently Working On
-- 🔒 Developing a comprehensive vulnerability assessment tool.
+- 🎥 Developing a camera application that utilizes deep learning techniques to create realistic deep fake images and videos in real-time.
 - 🎨 Enhancing the UI/UX of my car price predictor web application.
 - 🗣️ Building and refining an AI voice assistant.
 
